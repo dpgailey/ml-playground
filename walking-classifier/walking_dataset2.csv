@@ -1,8 +1,4 @@
-# Task: walking
-# Frequency (Hz): 20
-# Clock (millisecond): 250
-# Duration (seconds): 120
-# Columns: time,avg_rss12,var_rss12,avg_rss13,var_rss13,avg_rss23,var_rss23
+#time,avg_rss12,var_rss12,avg_rss13,var_rss13,avg_rss23,var_rss23
 0,24.50,4.77,16.50,4.50,13.75,2.38
 250,40.00,5.24,19.25,2.86,12.25,4.32
 500,40.00,2.83,17.00,1.41,16.75,4.71

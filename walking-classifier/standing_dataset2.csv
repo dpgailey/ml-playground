@@ -1,8 +1,4 @@
-# Task: standing
-# Frequency (Hz): 20
-# Clock (millisecond): 250
-# Duration (seconds): 120
-# Columns: time,avg_rss12,var_rss12,avg_rss13,var_rss13,avg_rss23,var_rss23
+#time,avg_rss12,var_rss12,avg_rss13,var_rss13,avg_rss23,var_rss23
 0,44.33,0.47,15.00,0.00,17.00,0.71
 250,44.25,0.83,14.75,0.43,15.50,0.50
 500,44.40,0.80,15.00,0.00,15.25,0.43
